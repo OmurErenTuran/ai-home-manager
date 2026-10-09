@@ -1,0 +1,20 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# Database
+*.db
+
+# Backups
+backups/
+
+# Streamlit secrets
+.streamlit/secrets.toml
